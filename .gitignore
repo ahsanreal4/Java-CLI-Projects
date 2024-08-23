@@ -3,3 +3,8 @@ Broadcast Server/bin
 .project
 .classpath
 org.eclipse.*
+
+Bank Management
+
+GroupChat/
+GroupChat/.idea
